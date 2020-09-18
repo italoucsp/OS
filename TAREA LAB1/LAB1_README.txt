@@ -1,0 +1,3 @@
+- El archivo jiffies.c corresponde a la parte 4.1.
+- El archivo seconds.c corresponde a la parte 4.2.
+- El archivo makefile arma ambos modulos (jiffies y seconds) de golpe.
